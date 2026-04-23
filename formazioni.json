@@ -1,0 +1,181 @@
+{
+  "mb_luxury_events": {
+    "version": "1.0",
+    "last_updated": "2026-04-23",
+    "note": "Libreria formazioni MB Luxury Events. Usare 'lingua' per filtrare ITA/ENG/BILINGUE. Il campo 'traduzione' contiene la versione nell'altra lingua quando disponibile.",
+
+    "formazioni": [
+
+      {
+        "id": "violino_solo",
+        "nome_display": "Violino Solo",
+        "lingua": "ENG",
+        "momento_consigliato": ["cerimonia", "aperitivo", "cena"],
+        "copy": "Violin melodies weaving through carefully curated musical backing tracks. A fusion of classic and contemporary, for a unique and engaging atmosphere.",
+        "video_url": "https://youtu.be/djl02JrpWZc?si=LpdTGugxxcz1Ra1K",
+        "traduzione_ITA": "Melodie di violino intrecciate a basi musicali accuratamente selezionate. Una fusione di classico e contemporaneo, per un'atmosfera unica e coinvolgente."
+      },
+
+      {
+        "id": "sax_dj_set",
+        "nome_display": "Sax + DJ Set",
+        "lingua": "ENG",
+        "momento_consigliato": ["cena", "after dinner", "party"],
+        "copy": "A refined fusion of DJ energy and live saxophone, where rhythm meets sophistication. The DJ sets the atmosphere, the sax elevates the moment — creating a seamless balance between elegance and celebration.",
+        "video_url": "https://youtube.com/shorts/2yS2NDUe6eE",
+        "traduzione_ITA": "Una raffinata fusione di energia DJ e sassofono dal vivo, dove il ritmo incontra la sofisticatezza. Il DJ crea l'atmosfera, il sax eleva il momento — un equilibrio perfetto tra eleganza e celebrazione."
+      },
+
+      {
+        "id": "dj_set",
+        "nome_display": "DJ Set",
+        "lingua": "ENG",
+        "momento_consigliato": ["party", "after dinner"],
+        "copy": "Curated selections, precise rhythms and a relentless energy. A DJ set built for the party, where every track is chosen to keep the floor moving and the atmosphere exactly where it needs to be.",
+        "video_url": null,
+        "traduzione_ITA": "Selezioni curate, ritmi precisi e un'energia inarrestabile. Un DJ set costruito per il party, dove ogni traccia è scelta per tenere la pista in movimento e l'atmosfera esattamente dove deve essere."
+      },
+
+      {
+        "id": "filodiffusione",
+        "nome_display": "Filodiffusione",
+        "lingua": "ITA",
+        "momento_consigliato": ["cena"],
+        "copy": "Una selezione musicale curata accompagna la cena in sottofondo — una playlist raffinata e discreta per creare l'atmosfera giusta senza mai disturbare la convivialità.",
+        "video_url": null,
+        "traduzione_ENG": "A carefully curated musical selection accompanies dinner in the background — a refined and discreet playlist to create the right atmosphere without ever disturbing the conviviality."
+      },
+
+      {
+        "id": "sax_bar",
+        "nome_display": "Sax Bar",
+        "lingua": "ITA",
+        "momento_consigliato": ["taglio torta"],
+        "copy": "Un sax solista su basi strumentali per accompagnare il taglio torta con eleganza e calore.",
+        "video_url": "https://youtube.com/shorts/sVs4ua3Nr9s?feature=share",
+        "traduzione_ENG": "A solo saxophone on instrumental backing tracks to accompany the cake cutting with elegance and warmth."
+      },
+
+      {
+        "id": "quartetto_acustico",
+        "nome_display": "Mediterranean Band / Quartetto Acustico",
+        "lingua": "ITA",
+        "momento_consigliato": ["aperitivo"],
+        "copy": "Voce, chitarra, sax e percussioni per accompagnare l'aperitivo con le atmosfere calde del jazz e della bossa nova, per accogliere gli ospiti nel segno dell'eleganza.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjM6U893Ka-UjajiHN3aJzo2",
+        "traduzione_ENG": "Voice, guitar, sax and percussion to accompany the aperitif with the warm atmospheres of jazz and bossa nova, welcoming guests with elegance."
+      },
+
+      {
+        "id": "velvet_aura_live_show",
+        "nome_display": "Velvet Aura Live Show",
+        "lingua": "ITA",
+        "momento_consigliato": ["party", "after dinner"],
+        "copy": "Con Velvet Aura Live Show il party prende vita: due voci potenti, il sax, le percussioni e il dj si fondono in uno show travolgente pensato per far scatenare ogni ospite.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjNhDNkXy1qkR8zjSYBtnaiO",
+        "traduzione_ENG": "With Velvet Aura Live Show the party comes alive: two powerful voices, sax, percussion and DJ merge into an overwhelming show designed to get every guest on their feet."
+      },
+
+      {
+        "id": "live_band",
+        "nome_display": "Live Band",
+        "lingua": "ITA",
+        "momento_consigliato": ["cena", "after dinner", "party"],
+        "copy": "Una band dal sound elegante e coinvolgente: voce (femminile o maschile), sassofono, batteria e tastiera. Dalla cena all'after dinner, il repertorio si evolve naturalmente tra jazz, soul, pop internazionale e dance — per portare i vostri ospiti, senza soluzione di continuità, dalla tavola alla pista da ballo.",
+        "video_url": null,
+        "traduzione_ENG": "A band with an elegant and engaging sound: voice (female or male), saxophone, drums and keyboard. From dinner to after dinner, the repertoire evolves naturally through jazz, soul, international pop and dance — seamlessly taking your guests from the table to the dance floor."
+      },
+
+      {
+        "id": "caponi_brothers",
+        "nome_display": "The Caponi Brothers",
+        "lingua": "ENG",
+        "momento_consigliato": ["aperitivo", "cena", "party"],
+        "copy": "High energy, sharp suits and Italian soul. The Caponi Brothers Swing Band brings the golden age of swing to life with a repertoire rooted in the great Italian tradition — infectious rhythms, blazing brass and a stage presence that gets every room on its feet. A tight quintet featuring vocals, keys, drums, double bass and saxophone — or trumpet — playing together with the precision and fire that only true swing can deliver.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjPGt0FpaWYUP2xjpFXBGtTb",
+        "traduzione_ITA": "Alta energia, abiti impeccabili e anima italiana. The Caponi Brothers Swing Band riporta in vita l'era d'oro dello swing con un repertorio radicato nella grande tradizione italiana — ritmi contagiosi, ottoni fiammeggianti e una presenza sul palco che mette in piedi ogni sala."
+      },
+
+      {
+        "id": "voce_pianoforte_arpa_violino",
+        "nome_display": "Voce - Pianoforte - Arpa - Violino",
+        "lingua": "ITA",
+        "momento_consigliato": ["cerimonia", "aperitivo", "cena"],
+        "copy": "Voce naturale o lirica accompagnata da pianoforte o arpa e violino. È possibile arricchire ulteriormente con l'aggiunta di un violoncello, o optare per un quartetto d'archi completo.",
+        "video_url": "https://youtube.com/playlist?list=PL1K9vDm4BIjMUL9vnZlwa5qTA7Awovbuv&si=jfTzVjeWmmRN9VAR",
+        "traduzione_ENG": "Natural or lyric voice accompanied by piano or harp and violin. It is possible to further enrich with the addition of a cello, or opt for a complete string quartet."
+      },
+
+      {
+        "id": "trio_unplugged",
+        "nome_display": "Trio Unplugged",
+        "lingua": "ITA",
+        "momento_consigliato": ["aperitivo", "cena"],
+        "copy": "Tre musicisti, un'atmosfera inconfondibile. Il sassofono dialoga con il contrabbasso e il rullante in un repertorio jazz, lounge e bossa nova — raffinato, caldo e perfettamente calibrato per accogliere i vostri ospiti con stile.",
+        "video_url": "https://youtu.be/-XcSSBFGtzA?si=2maJQeQRq5cGA1mY",
+        "traduzione_ENG": "Three musicians, an unmistakable atmosphere. The saxophone dialogues with the double bass and snare in a jazz, lounge and bossa nova repertoire — refined, warm and perfectly calibrated to welcome your guests in style."
+      },
+
+      {
+        "id": "velvet_aura_5et",
+        "nome_display": "Velvet Aura 5ET",
+        "lingua": "ENG",
+        "momento_consigliato": ["cena", "after dinner", "party"],
+        "copy": "Velvet Aura 5ET is a refined five-piece ensemble designed to create a warm, sophisticated atmosphere for celebrations. An elegant balance of vocals, keyboard, electric guitar and drums shapes a sound that is both intimate and dynamic.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjPMRzwnhc0WpY1nmEAroUbl",
+        "traduzione_ITA": "Velvet Aura 5ET è un raffinato ensemble a cinque elementi pensato per creare un'atmosfera calda e sofisticata. Un elegante equilibrio di voce, tastiera, chitarra elettrica e batteria per un sound intimo e dinamico."
+      },
+
+      {
+        "id": "cool_vibes_band",
+        "nome_display": "Cool Vibes Band",
+        "lingua": "ENG",
+        "momento_consigliato": ["cena", "after dinner", "party"],
+        "copy": "A female voice, romantic covers, jazz and funk in a sophisticated yet dynamic sound — warm and refined, naturally energetic when the evening becomes a party. With an international repertoire, every performance feels tailor-made.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjNNc5rVXh_Kqs6ysbKPdllT",
+        "traduzione_ITA": "Una voce femminile, cover romantiche, jazz e funk in un sound sofisticato ma dinamico — caldo e raffinato, naturalmente energico quando la serata diventa festa. Con un repertorio internazionale, ogni esibizione sembra su misura."
+      },
+
+      {
+        "id": "fab_five",
+        "nome_display": "The Fab Five",
+        "lingua": "ENG",
+        "momento_consigliato": ["aperitivo", "cena", "party"],
+        "copy": "Italian classics and timeless international standards, reinterpreted with elegance and a sunny mood. An eclectic repertoire capable of bringing together different generations and cultures, making every moment feel natural and refined.",
+        "video_url": "https://www.youtube.com/playlist?list=PL1K9vDm4BIjPGW5nXv6JrRg8BquSOkFlL",
+        "traduzione_ITA": "Classici italiani e standard internazionali senza tempo, reinterpretati con eleganza e un mood solare. Un repertorio eclettico capace di unire generazioni e culture diverse, rendendo ogni momento naturale e raffinato."
+      },
+
+      {
+        "id": "posteggia_napoletana",
+        "nome_display": "Posteggia Napoletana",
+        "lingua": "ENG",
+        "momento_consigliato": ["aperitivo", "cena"],
+        "copy": "A refined tribute to timeless Italian romance. Classic Neapolitan melodies performed with elegance and authenticity, creating an intimate, cinematic atmosphere for luxury destination celebrations.",
+        "video_url": "https://youtube.com/shorts/TrRwCyfOCeM",
+        "traduzione_ITA": "Un raffinato omaggio alla romance italiana senza tempo. Melodie napoletane classiche eseguite con eleganza e autenticità, per un'atmosfera intima e cinematografica."
+      },
+
+      {
+        "id": "quartetto_archi",
+        "nome_display": "Quartetto d'Archi",
+        "lingua": "ENG",
+        "momento_consigliato": ["cerimonia", "aperitivo"],
+        "copy": "The timeless sound of two violins, viola and cello brings depth, elegance and quiet grandeur to any celebration. From ceremony to aperitif, the quartet creates a cinematic atmosphere where classical heritage meets contemporary sophistication.",
+        "video_url": "https://youtube.com/shorts/DXfHb1b6Uag",
+        "traduzione_ITA": "Il suono senza tempo di due violini, viola e violoncello porta profondità, eleganza e grandiosità silenziosa a ogni celebrazione. Dalla cerimonia all'aperitivo, il quartetto crea un'atmosfera cinematografica."
+      },
+
+      {
+        "id": "dixieland_band",
+        "nome_display": "Dixieland Band",
+        "lingua": "ENG",
+        "momento_consigliato": ["aperitivo", "cena", "party"],
+        "copy": "A sophisticated revival of early jazz, performed by banjo, double bass, snare, trumpet, trombone, clarinet and saxophone. Vibrant yet elegant, it brings timeless charm and distinctive character to exclusive celebrations.",
+        "video_url": "https://youtube.com/shorts/N3K0CZtOBxk",
+        "traduzione_ITA": "Un sofisticato revival del jazz delle origini, eseguito da banjo, contrabbasso, rullante, tromba, trombone, clarinetto e sassofono. Vibrante ma elegante, porta fascino senza tempo a celebrazioni esclusive."
+      }
+
+    ]
+  }
+}
